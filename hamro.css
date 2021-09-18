@@ -32,7 +32,7 @@ body{
 	width: 100%;
 	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('https://th.bing.com/th/id/OIP.-ips-MqhqgX2439Z4BYPtwHaEK?w=264&h=180&c=7&r=0&o=5&pid=1.7');
 	background-size: cover;
-	overflow: hidden;
+	overflow-x: hidden;
     background-repeat: no-repeat;
 }
 header{
@@ -170,7 +170,7 @@ h1 {
 		text-align: center;
 	}
 	body{
-	overflow: hidden;
+	overflow-x: hidden;
 }
     html{
     	overflow-x: hidden;
@@ -189,7 +189,7 @@ h1 {
 		right: 0;
 	}
 	body{
-	overflow: hidden;
+	overflow-x: hidden;
 }
 }
 @media (max-width: 326px) and (min-height: 410px){
@@ -198,7 +198,7 @@ h1 {
 		white-space: nowrap;
 	}
 	body{
-	overflow: hidden;
+	overflow-x: hidden;
 }
 }
 @media (max-width: 280px) and (min-height: 410px){
@@ -206,7 +206,7 @@ h1 {
 		font-size: 2.9vh;
 	}
 	body{
-	overflow: hidden;
+	overflow-x: hidden;
 }
 }
 @media (max-height: 410px){
