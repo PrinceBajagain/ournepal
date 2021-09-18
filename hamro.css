@@ -173,7 +173,7 @@ h1 {
 	overflow-x: hidden;
 }
     html{
-    	overflow-x: hidden;
+    	overflow: hidden;
     }
 }
 @media (max-width: 410px) and (min-height: 410px){
