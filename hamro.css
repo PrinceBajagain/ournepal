@@ -130,7 +130,7 @@ h1 {
 .aftmedia{
 	display: none;
 }
-@media (max-width: 770px) and (min-height: 410px){
+@media (max-width: 770px){
 	.menu{
 		visibility: hidden;
 	}
@@ -176,7 +176,7 @@ h1 {
     	overflow: hidden;
     }
 }
-@media (max-width: 410px) and (min-height: 410px){
+@media (max-width: 410px){
 	.logo{
 		font-size: 1.5vh;
 	}
@@ -192,7 +192,7 @@ h1 {
 	overflow: hidden;
 }
 }
-@media (max-width: 326px) and (min-height: 410px){
+@media (max-width: 326px){
 	.welcome{
 		font-size: 1.9vh;
 		white-space: nowrap;
@@ -208,13 +208,4 @@ h1 {
 	body{
 	overflow: hidden;
 }
-}
-@media (max-height: 410px){
-	.aftmedia{
-             display: none;
-         
-}
-        .visit{
-           display: block;
-          }
 }
