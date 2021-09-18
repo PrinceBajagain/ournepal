@@ -209,3 +209,12 @@ h1 {
 	overflow: hidden;
 }
 }
+@media (max-height: 410px){
+	.aftmedia{
+             display: none;
+         
+}
+        .visit{
+           display: block;
+          }
+}
